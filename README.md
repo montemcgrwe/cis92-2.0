@@ -1,1 +1,2 @@
-# cis92-2.0
+# Updated CIS92 git README file
+By Monte McGrew
